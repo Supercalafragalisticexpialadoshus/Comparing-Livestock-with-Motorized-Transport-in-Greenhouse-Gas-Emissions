@@ -1,0 +1,94 @@
+###########
+Black Carbon
+####
+Jacobson-2010 'short term effects.. ' pg.3
+Bond-2013 'bonding the role..' pg.5490 S10.1
+Professor Tami Bond - yark@illinois.edu
+
+black carbon and global warming - impacts
+BC is second only to CO2 in it's impact [[pg.6]]
+
+Jacobson 0710 letter to House (downloaded)
+graph w/ emissions of BC for ship, plane, etc -- check through this after email response [[pg.6]]
+
+Jacobson 2012 (downloaded)
+graph shows maritime at .144Tg BC [[pg.6205 Tbl-2]]
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.168.4988&rep=rep1&type=pdf [Bond-2004] (downloaded)
+Particulate Matter emissions ranged from 0.005 to 0.2 g/kg with 'superemitters' contributing 2g/kg
+1.5g/km PM {104} with 25% of vehicles{106} (as superemitters) contributing 12g/km{107} with 66% as black carbon <- coincides w/ 6.8-7g/kg
+3.6g black carbon per kg fuel{111} [[pg.21-22---sec.5.4.3]] <-general PM not BC
+0.1g BC per kg fuel for aviation{116} [[pg.23---sec.5.4.5]]
+diesel general emissions 0.66g/kg (including diesel rail) and gasoline are 0.34g/kg [[pg.15 table-7]]
+
+Klimont-2017 (downloaded)
+Aviation contributes only a very small proportion of global PM emissions; for example, for black carbon its share was estimated at about 0.1–0.2 % (Lee et al., 2009; Stettler et al., 2013) [[pg.8696 or s3.4.2]]
+
+1kg diesel fuel = 0.3105 US gallons and 1kg gasoline = 0.3527 US gallons www.aqua-calc.com
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwjH07731d3bAhUiIDQIHV0zDUwQFgg6MAI&url=http%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F2%2F1%2F294%2Fpdf&usg=AOvVaw11Dqj9tGhdTWubD_ieYzXP  Shrestha-2010
+black carbon emissions from biomass burning ranges from 50-260Tg-C/yr and 12-24Tg-C from fossil fuel [[pg.12]]
+
+BC emissions from ag. biomass burning [still Bond-2004]
+forest 1238Gg/yr, Savanna 1715Gg/yr, ag.residue 328Gg/yr, waste 44Gg/yr totaling 3325Gg/yr [[pg.30 Table.13]]
+
+http://onlinelibrary.wiley.com/doi/10.1029/2008GL033906/full
+About one-third of global BC emissions is from fossil fuel combustion and estimates of BC emission from shipping vary from 19–132-Gg/yr or 0.019-0.132-Mt/yr ((pg.1[3]))
+Lack-2008 quoting Wang-2008 states a figure of 71.4Gg (0.0714Mt/yr) [[pg.5{sec9}]
+
+http://theicct.org/GHG-emissions-global-shipping-2013-2015 ((all emission figs. are for 2015)) Global-shipping-emissions[downloaded]
+20-yr GWP -- 1222 million tons total CO2e from shipping (256.6Mt-CO2e for BC)
+3,200 for GWP on black carbon [[sec-3.4]]
+932 million tons CO2 specifically [[sec-4.2.1]]
+total BC emissions from shipping were 78 kilotons(0.078Mt) while CH4 was 363Kt(0.363Mt) and N2O was 46Kt(0.046Mt) [[sec-4.3]]
+
+http://www.aegpl.eu/media/16780/black%20carbon%20and%20global%20warming%20-%20impacts%20of%20common%20fuels,%20ed.%202009.pdf
+black carbon and global warming -impacts of common fuels [downloaded]
+GWP of black carbon for 20-GWP is 2200 [[pg.7]] (ICCT says 3200)
+584
+
+713-Fig8.15 --BC tends to have more of cooling then warming effect
+
+http://docs.niwa.co.nz/library/public/PTRSA365(1956)2007.pdf  - Hansen-2007
+GWP for BC is 2000 for the 20 yr timeframe [[pg.1942]]
+
+Bond, T. C., et al. 2013: Bounding the role of black carbon in the climate system: A
+scientific assessment. J. Geophys. Res. Atmos., 118, 5380–5552 (downloaded)
+table of black carbon produced by grassland burning, forest fires, and ag. waste burning [[pg.5412 table-7]]
+on-road diesel engines were estimated to produce 780-840Gg and shipping was estimated at 100Gg in 2000 [[pg.5413]]
+aviation emits BC at altitudes that otherwise have low aerosol concentrations, its contribution to
+BC mass is quite small. Likewise shipping emits aerosol into regions that otherwise have low concentrations [[pg.5413-4]]
+GWP for black carbon on the 20yr timeframe is 3200 [pg.5511--12.1]]
+
+Jacobson
+https://www.firescience.gov/projects/09-2-01-9/supdocs/09-2-01-9_Appendix_C_-_Unit_Conversion_and_Other_Tables.pdf -1unit C =3.67units CO2
+
+Jacobson-cut-aerosols (downloaded)
+use graph (Fig.1 pg.8) for conclusion
+
+https://web.stanford.edu/group/efmh/jacobson/Articles/VIII/bioburn/14BburnJGR.pdf Jacobson-2014 biomass burning
+Previously,Jacobson [2004] calculated, through global numerical simulation, that BB particles may cause short-term cooling, but its gases cause warming that overpowers the cooling over the long term.[[pg.8981]]
+7738Tg-CO2 from biomass burning and 112.1Tg-CO2 from ag. soils [[pg.8983]]
+maybe contact for info on total black carbon emissions from agriculture https://profiles.stanford.edu/mark-jacobson
+
+https://www.gpo.gov/fdsys/pkg/CHRG-111hhrg62588/pdf/CHRG-111hhrg62588.pdf  clearing the smoke
+Congressional-hearing(62588) (downloaded)
+global emissions of BC are 8.3mil tons/yr (2010) {{8.2mil tons = 7.5mil metric tons}}
+of this global figure, roughly 25% are from diesel engines (prob. on & offroad) 
+biomass burning comprises 40% of this [[pg.13]]
+
+http://earthjustice.org/sites/default/files/black-carbon/bond-and-sun-2005.pdf  --Bond & Sun 2005 (downloaded)
+GWP-100 is 680, GWP-20 for BC is 2200 and there's a high degree of uncertainty [[pg.2]]
+
+Bond-2007 (45030)
+GWP-20 for black carbon is 2000 based on two sources [[pg.7 table1]]
+
+Bond-2013
+global emissions of black carbon from various sources
+aircraft -- from 1-20 gigagrams/yr [[pg.5413-table8]]
+
+https://www.atmos-chem-phys.net/10/6391/2010/acp-10-6391-2010.pdf  Wilkerson-2010 (downloaded)
+Black carbon generally averages to 0.035g/kg for takeoff & cruising [[pg.3]]
+
+Global anthropogenic emissions of particulate matter including black carbon -- Klimont
+7.2Tg anthro emissions black carbon 2010 [[pg.1]]

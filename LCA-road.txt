@@ -1,0 +1,145 @@
+#########
+LCA-road
+####
+LCA-pavements-crit-review (downloaded)
+2.3.1 bring up innacuracy of road LCA given different characteristics (traffic volume temperature) [[pg38]]
+Studies addressed GHGs 
+
+26 Athena Institute, A Life Cycle Perspective on Concrete and Asphalt Roadways: Embodied
+Primary Energy and Global Warming Potential. Cement Assocation of Canada. Prepared
+for the Cement Association of Canada. 2006 <- estimate too low relative to others (doesn't include earth moving during construction). 
+
+Melanta-2013 (downloaded)
+55% of construction emissions come from equipment usage, 45% of emissions come from earthmoving/site prep & 0.06% come from concrete/asphalt production [[pg.553-Tbl-4]]
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809014/ -for GHG emissions from roads (downloaded)
+Ma. et al-2016 [[pg10]]“Reducing Transport Greenhouse Gas Emissions trends and data”  produced for the International Transport Forum 2010 by the Organization for Economic Cooperation and Development
+case study .028kmx20km road area [[pg.5 -4.1]] and results 52,264,916.06 kg-CO2e [[pg.10]]
+
+28 Chan, A.W.-C., Economic and Environmental Evaluations of Life Cycle Cost Analysis
+Practice: A Case Study of Michigan DOT Pavement Projects, Master of Science Thesis
+in Natural Resource and Environment, University of Michigan. 2007.
+4000Mt-CO2e per 4-lane-kms for road reconstruction (I'm using the higher estimate due to lack of data for initial road construction [[pg.61]] <- ends up being 177Mt in line w/ 2165-784
+Chan-eco-LCA (downloaded)
+The model calculated that 18,000-28,000 metric tons (Mt) of materials were used for construction and reconstruction projects per 4-lanes-km
+
+estimate carbon footprint bituminous road construction 2165-784x (downloaded)
+Warm-melt asphalt 26,878.7t-CO2-eq  and hot-melt asphalt 27,469.14t-CO2-eq [[graph pg.3]]
+
+http://www.pavementinteractive.org/2012/02/21/energy-and-road-construction-whats-the-mileage-of-roadway/
+simple calculation - pavement energy consumption to motor traffic consumption is 18-1 ratio
+
+Measuring the carbon footprint of road construction using CHANGER - Dr. Huang et al (downloaded)
+7 studies of projects in UK, UAE, & India providing figures for repaving & new construction embodied emissions
+
+LCA-road asphalt pavement alliance
+2-lane road 65-295, 4-lane, & 6-lane [[pg.4 Fig.1]]
+
+Emb Energy FFveh 00324 - Morten Simonsen and Hans Jakob Walnum (downloaded)
+959 tonne CO2e produced in producing 1km of road. The corresponding number for maintenance is 1140 GJ (84 tonne CO 2 -equivalents) and for operation 3240 GJ (120 tonne CO 2 -equivalents). We have applied an expected lifetime of 40 years for road construction and operation and 12 years for road maintenance.[[pg.17]]
+
+LCA-transport-GHG-auto-bus..(downloaded)
+Automobile manufacturing GHG emissions are 29 to 33g-CO2e/Pass-Ml-traveled [[pg42]].
+can simply state that more info on emissions for roadway construction/maintanance can be found here
+Bus emissions per pass. mile traveled, manuf. is 65 g-CO2e/PMT out of the total 630 g-CO2e/PMT total operational emissions for off-peak buses and 8 g-CO2e/PMT out of the total 79 g-CO2e/PMT for peak buses. [[pg43]]
+pass. train service produces btwn 130 and 230 g-CO2e/PMT [[pg80]]
+Dulles Airport Taxiways amount to 6.1M ft2 of area and tarmacs 14M ft2 . A wearing layer of 12 in and
+subbase of 12 in are assigned to all areas. Extrapolating by the total U.S. runways length and
+Dulles’ total runway length (34,000 ft), a total taxiway and tarmac area was determined. [[pg94]]
+
+http://www.teriin.org/index.php?option=com_ongoing&task=about_project&pcode=2011UD02&Itemid=144
+emissions per passenger km for BRT & rail
+construction - BRT-1.6g/PKM  MetroRail-4.9g/PKM
+maintanance  - BRT-0.7g/PKM  MetroRail-0.6g/PKM
+Rolling stock manufacture - BRT-2.4g/PKM  MetroRail-1.0g/PKM
+Rolling stock maintenance - BRT-0.4g/PKM  MetroRail-0.6g/PKM
+also has figures for intercity rail T-CO2e/km and road construction/maint in T-CO2e/km
+
+Emb-energy-FFveh (downloaded)
+LCA of roads is 959T-CO2e for 1km road over it's lifetime
+
+estimated carbon emissions- bituminous road construction.. (downloaded)
+62km 4-ln hwy --1,798,000m2 test surface -- 26,878T-CO2e(warm-mix) & 27,469T-CO2e(hot-mix)
+
+http://www.jtc.sala.ubc.ca/reports/analysis-ghg-roads.pdf
+CO2 emissions from building 1-lane-mile of urban hwy over 50yrs --3500tons(const, materials, maintanance)
+
+http://ascelibrary.org/doi/abs/10.1061/(ASCE)CO.1943-7862.0000349 (US)
+CO2 emissions are 787.19 and 1,383.28 MT per lane mile
+
+
+http://www.earth-policy.org/plan_b_updates/2001/alert12
+(also 'Transport, the Environment and Security: Making the Connection' by Rae Zimmerman pg10
+U.S. paved area per car is 0.07 ha
+pavement in the U.S.covers 16 million hectares
+industrial societies like Germany, UK, Japan have paved 0.02 ha /car
+
+Asian-Dev-Bank - https://www.oecd.org/derec/adb/47170274.pdf
+graph displays 1100 T-CO2e/lane-km/yr [[pg.23]]
+Ramola Naik Singru @RamolaNS
+CO2 intensity per km of transport infrastructure improved or constructed was estimated to be 10,000 tons per km for ADB's
+transport portfolio. The output indicator for new expressways is higher at 88,000 tons per km constructed using ADB funding. [[Pg.8]]
+
+http://iopscience.iop.org/article/10.1088/1748-9326/8/2/021004/meta
+it takes half a century to repay the 'carbon debt' of light rail as compared to BRT systems [[abstract]]
+
+----
+http://iopscience.iop.org/article/10.1088/1748-9326/4/2/024008/pdf (downloaded)
+references - https://escholarship.org/uc/item/7n29n303
+Life-cycle energy inputs and emission outputs increase significantly compared to the vehicle operational phase. Life-cycle greenhouse gas emissions are 47-65% larger than vehicle operation for autos, 43% for buses, 39-150% for rail, and 24-31% for air systems per passenger mile traveled.
+MIKHAIL CHESTER-eco-inventory-pass-travel (downloaded)
+bus lifetime is 12yrs [[pg.50]]
+bus produces 2373 g-CO2/VMT
+fuel production (refining & distribution) - 61-110g-CO2e per VMT (61 for sedan & 110 for pickup) [[pg.84]]
+fuel-processing LCA 1.6-1.7kg/gal ([EIO‐LCA 2008] Economic Input‐Output Analysis‐Based Life‐Cycle Assessment Software; Carnegie Mellon University, Green Design Initiative; http://www.eiolca.net/ 'EIO-LCA' [[pg.86]]
+{{include graph pg.88}}
+The  EIO‐LCA  data  models  all  petroleum  refining  but  the  energy and  emissions  from  jet  fuel  are  presumed  to  be  not  significantly  different  from  gasoline  or diesel. [[pg.212]]
+---
+
+http://news.ihsmarkit.com/press-release/aapex/global-automotive-aftermarket-opportunities-continue-grow-ihs-markit-says
+global vehicle miles traveled topped 10 trillion in 2016
+
+https://www.indexmundi.com/energy/?product=jet-fuel
+5381.4 in thousand barrels/day for the year 2012
+
+secretariat_ssd@belspo.be
+I read with interest your study 'Clean Vehicle Research: LCA and Policy Measures.'
+RS_ODriscoll, lizthered
+
+Santaro-2011 (downloaded)
+Moreover, recent research has shown that the typically omitted phases and components are potentially large (or even dominant) contributors to the overall impact of a pavement (Santero and Horvath, 2009) [[pg.804]]
+Santero-Horvath-2009 provides a wide range from 0-100,000 tonnes for traffic delay [[pg.3-Fig.1]]
+
+“UK: Electric and Hybrid Cars are CO2-Heavy in Production”  JustAuto.com  06/08/2011
+Patterson J., Alexander M., Gurr A., “Preparing for a Life Cycle CO2 Measure” Ricardo Consultants,  RD.11/124801.4  05/20/2011 pg. 46
+Gregory Launay, “Lifey-Cycle Assessment in the Automotive Industry” GNESG.com  08/25/2012
+Dr. Ben Lane, “Life Cycle Assessment of Vehicle Fuels and Technologies” prepared for the London Borough of Camden, March 2006 pg.67
+Tim Smith, “A Life Cycle Perspective on Concrete and Asphalt Roadways: Embodied Primary Energy and Global Warming Potential” Cement Association of Canada, pg.7  09/15/2006
+Kay Sumfleth “Overview of Rice Production Methods, Agriculture Production, and Methane Emissions Estimates”
+https://www.cia.gov/library/publications/the-world-factbook/fields/2085.html
+factsheet displaying km of road worldwide
+https://phys.org/news/2016-12-roads-shatter-earth-surface-fragments.html
+36mil km of roads <- prob. use this as it's 1.33 larger then simple road kms
+study on roadless areas
+http://www.roadless.online/member/
+ geoloket@pbl.nl
+
+Assessing and Managing the Ecological Impacts of Paved Roads
+https://multcolib.bibliocommons.com/item/show/2920122068
+
+http://www.aitd.net.in/pdf/AsianJournals/27-Fuel%20Efficiency%20of%20Road%20Transport.pdf#page=74 Ghate, Sundar
+pavement emissions for road in India is almost 35,00T[[pg.77-Fig-2]]
+
+LCA-pavement
+http://pubmedcentralcanada.ca/pmcc/articles/PMC4809014/
+The total CO2e emission of the 20 km asphalt pavement construction is 52,264,916.06 kg.
+The CO2e emission of cement stabilized aggregate course is 43,141,017.32 kg,
+
+https://www.oecd.org/derec/adb/47170274.pdf  <-- prob not
+Bangalore Metro Rail Corporation, which considered only embedded carbon content of construction materials such as 
+steel, cement, and asphalt estimated 15,655 tons of construction CO2 emissions per km.(ref40) [[pg30]]
+
+Johan Meijer
+PBL Netherlands Environmental Assessment Agency
+21.6 mln km global * width 12ft
+

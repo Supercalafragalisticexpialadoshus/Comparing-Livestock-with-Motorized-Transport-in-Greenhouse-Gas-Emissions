@@ -1,0 +1,37 @@
+----
+livestock respiration
+----
+Carbon Dioxide production in Animal houses: A Literature Review
+Pedersen, S., Blanes-Vidal, V., Jørgensen, H., Chwalibog, A., Haeussermann, A., Heetkamp, M.J.W. and Aarnink, A.J.A., 2008. Carbon dioxide production in animal houses: A literature review. Agricultural Engineering International: CIGR Journal.
+https://convergingworld.co.uk/2016/10/02/breath-its-time-to-rationalise-respiration-in-livestock-emissions/	maybe contact 4 info (have other sources for CO2 from livestock respiration)
+
+https://www.biogeosciences.net/4/215/2007/bg-4-215-2007.pdf  Wolf et al 2017
+livestock respiration estimated at 1.5Gt-C/yr (5.5Gt-CO2) [[pg2]]
+1509.2 Tg-C for animal respiration [[pg.12 Tbl.4]]
+
+https://www.biogeosciences.net/4/215/2007/bg-4-215-2007.pdf   Prairie-2006  (downloaded)
+1.5Gt-C per year from direct respiration of domesticated animals
+
+https://www.vegan.com/articles/environment/a-sympathetic-but-skeptical-look-at-goodland-and-anhangs-livestock-and-climate-change/
+source for 3.2% or 2Gt CO2 emissions from respiration  <- can't find
+
+Smil, Vaclav. Should We Eat Meat? : Evolution and Consequences of Modern Carnivory, John Wiley & Sons, Incorporated, 2013
+claims that Prairie's figure of 5.5Gt-CO2 from respiration are overly high and this is because they overestimate mass of livestock animals. However the masses quoted are in line with current weight estimates. Smil claims 3Gt-CO2/yr [[pg.173]]
+
+Alan Calverd - 'A Radical Approach to Kyoto' DOI- 10.1088/2058-7058/18/7/46 (behind a paywall)
+Carbon dioxide from livestock respiration accounts for 21 percent of anthropogenic GHGs worldwide, according to an estimate by British physicist Calverd, about 8,769 million tons  --- this is the source for Goodland & Anhang
+
+Livestocks Long Shadow
+livestock respiration accounts for roughly 3000 Megatons of CO2 [[pg.96-table 3.6]]
+
+https://terrastendo.net/2013/07/26/do-the-math-there-are-too-many-cows/
+Calverd estimates 7.4 GT emissions for CO2 respiration from livestock
+this also addresses animal mass differences btwn native pronghorn and domestic livestock <<nope-it's high estimt & behind paywall
+https://www.vegan.com/articles/environment/a-sympathetic-but-skeptical-look-at-goodland-and-anhangs-livestock-and-climate-change/
+I like this 3.2% estimate better for CO2 <nope
+according to USEPA ruminant farmed animals produce 80 million tonnes of CH4
+
+I can include - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjjqqaZxtjWAhUJ1mMKHXQyDYoQFggyMAI&url=https%3A%2F%2Foncejolly.wordpress.com%2Fan-analysis-of-livestock-and-climate-change%2F&usg=AOvVaw2MX1q6PhIW6CwUfheoVphR
+discussion saying that Calverd's estimates of respiration are not legit (back of the envelope) but also point out that they're in line with 1.5-3Gt estimate <<nope
+
+

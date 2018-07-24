@@ -1,0 +1,68 @@
+### aviation ###
+http://www.europarl.europa.eu/RegData/etudes/STUD/2015/569964/IPOL_STU(2015)569964_EN.pdf
+CO2 emissions from aviation for international passenger transport were 458Mt-CO2 in 2010 [[pg.48]]
+
+https://www.icao.int/environmental-protection/Pages/A39_CORSIA_FAQ1.aspx also verified by http://www.atag.org/facts-figures.html
+-chk- national-international aviation accounts 2% global CO2 emissions 35,697 * .02 = 713.94 mil tons
+
+http://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-climate-change.pdf
+In 2016, flights worldwide produced 815 million tonnes of CO2 globally <- no too recent
+http://www.iata.org/publications/economic-briefings/IATA-CO2-abatement-modelling-report-July-2013.pdf
+741 million tons CO2
+
+https://www.indexmundi.com/energy/?product=jet-fuel
+5,381,000 barrels of jet fuel per day worldwide in 2012
+https://www.quora.com/How-much-fuel-is-consumed-by-the-global-aviation-industry-daily
+500,000 metric tons/day
+
+http://www.iata.org/publications/economic-briefings/IATA-CO2-abatement-modelling-report-July-2013.pdf
+741Mt-CO2 from aircraft [[pg.4]]
+
+EU emissions target reduction -569964
+According to Lee et al. (2010), the cumulative radiative forcing from global aviation to 2005 is estimated at 78 MW m-2 including cirrus clouds. This forcing is equal to 3.5 % of current anthropogenic forcing. Overall, non-CO2 climate impacts of
+aviation are estimated to contribute 49% (excluding contrail cirrus) and 64% (including contrail cirrus) to the total forcing of the sector (Deuber 2013). According to Lee et al. (2010), the total effect of aviation is 1.3-1.4 times higher than the effect of CO2 alone (excluding aircraft-induced cloudiness; GWP 100). If aircraft-induced cloudiness is included, this ratio increases to 1.9-2.0, i.e. the impact of aviation on the climate is about twice as high as the impact of the CO2 emissions alone [[pg.14]]
+
+https://climatecare.org/wordpress/wp-content/uploads/2013/07/Calculating-the-Environmental-Impact-of-Aviation-Emissions.pdf
+radiative forcing (aviation equiv. of GWP) has a multiplier for CO2 of 2.7 and so we multiply 458 * 2.7 [[pg.7]]
+
+CO2 equivalences for short-lived climate forcers by Odette Deuber (may have to ask her for figure 1Gt before or after radiative forcing is included
+
+https://pdfs.semanticscholar.org/9424/506095fde3dd462556ba65c23e043eec0e52.pdf
+not really useful but talks about airport operating emissions
+Kim, Brian Y.--contact or FAA
+
+https://www.ibisworld.com/industry-trends/global-industry-reports/manufacturing/commercial-aircraft-manufacturing.html
+370 billion revenue global commercial aviation
+
+EIOLCA tourism48A000
+336411 aircraft manufacture
+336412 aircraft engine manuf
+336413 other aircraft parts/equip
+
+## aircraft fuel demand ##
+https://dspace.mit.edu/bitstream/handle/1721.1/50611/469059627-MIT.pdf?sequence=2  -Hsin Wong
+aviation fuel embodied emiss. by gas 9.5g/MJ CO2, 2.3g/MJ CH4, 0.05g/MJ N2O [[p.39]]
+
+indexmundi.com
+aircraft fuel 5.381 million barrels/day => 1,964 million barrels/yr => 82,490.7 million gal/yr => 247,472,190 mil tons/yr
+
+wasiuk-2013 (e6dc8)(downloaded)
+production of aircraft fuel is 233.6 million tons/yr [[pg.5]]
+173.2 mil tons of fuel in 2011 [[pg.5 Tbl.1]]
+
+http://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S1364032115010266  Zhang, Hui, Lin, Sung 2014
+global oil use comes to 5 million barrels/day [[pg.2]] => 1,825 million/yr => 
+
+http://www.iea.org/statistics/statisticssearch/report/?country=WORLD&product=oil&year=2012
+249,309,000 + 1,214,000 tonnes = 248,472,000 tonnes
+
+https://data.worldbank.org/indicator/IS.AIR.PSGR?end=2016&start=2010
+according to the World bank PKT worldwide stood at 3.464 billion in 2015 (don't know if passengers, or PKT)
+https://www.icao.int/sustainability/documents/AirTransport-figures.pdf
+6.1 trillion PKT in 2014 [[pg.3]]
+
+need info on % of short med & long haul flights to divide Chester's data
+Wilkerson-2010 has some data from 2006 
+short haul - 85.17%, med-range - 11.15%, long-range - 3.69% [[pg10-Tbl-6]]
+
+

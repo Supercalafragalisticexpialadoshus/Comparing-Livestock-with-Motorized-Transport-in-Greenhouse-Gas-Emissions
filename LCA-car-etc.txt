@@ -1,0 +1,43 @@
+##########
+LCA
+####
+http://onlinelibrary.wiley.com/doi/10.1111/j.1530-9290.2012.00532.x/full
+LCA of internal-combustion and EV vehicles by Norway Inst. Tech w/ Anders Hammer Strømman et al
+10% int-comb vehicle is from manufacture <- inserted into essay
+
+Chester 2008 book
+Infrastructure and parking construction are major components of total PM10 emissions resulting in total emissions over three times larger than operational emissions for autos and even larger for many rail systems and aircraft  (the  major  contributor  being emissions from  hot-mix asphalt plants and concrete production). [[pg.33]] {use for LCA-road} <- add as quote but not in data
+
+http://www.sciencedirect.com/science/article/pii/S1876610217309049 (downloaded)
+Qiao
+LCA for standard ICEV is 9.2T or 21% lifetime emissions and 14.65T/vehicle [[pg.5 or 3588]] <- input into essay
+http://www.oica.net/category/production-statistics/
+In 2016 - 94 million motor vehicles were produced OICA  <- inserted into essay
+ICEV emit 9.2T-CO2e/veh and EVs emit 14.6t-CO2e/veh [[pg.3588]]
+
+http://www.gnesg.com/index.php?option=com_content&view=article&id=88:life-cycle-assesment-in-the-automotive-industry&catid=27:les-chiffres-de-lautomobile&Itemid=53 <- website not available
+Greg Launay studies LCA for vehicles and comes to 0.5Gt for oil processing
+5-5.5T-CO2e for car manufacturing (0.6Gt-CO2e annual) according to European Commission (driven by its research center, the Joint Research Center). [[sec.2]]    <- input into essay
+http://www.jama-english.jp/publications/MIJ2015.pdf
+number of cars manufactured in Japan was 9.77 million in 2014  <- not needed, included below
+http://www.oica.net/category/production-statistics/2014-statistics/
+number of cars manufactured by country & total
+
+http://etec.vub.ac.be/clever/docs/clever-PUB-003.pdf
+faycal.boureima@quantis-intl.com
+joeri.van.mierlo@vub.ac.b
+cathy.macharis@vub.ac.be
+Belgian study assessing the LCA of passenger vehicles.
+
+‘The Earth Policy Reader: Today's Decisions, Tomorrow's World’ Brown, J.Larson 2003 pg195-197
+U.S. cars consume 0.07 ha per car while outside U.S., cars consume 0.02 ha per car   ----important land area per car
+
+https://www.carbontrust.com/media/38401/ctc792-international-carbon-flows-automotive.pdf
+761Mt-CO2 produced worldwide by auto manufacture
+
+http://www.oica.net/category/production-statistics/
+number of automobiles produced worldwide   <- inserted into essay
+
+https://link.springer.com/article/10.1065/lca2006.02.244 --Horvath-2006
+70% of emissions from road, rail, and air can be attributed to use
+

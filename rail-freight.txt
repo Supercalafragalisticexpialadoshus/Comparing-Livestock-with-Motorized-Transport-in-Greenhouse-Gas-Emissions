@@ -1,0 +1,54 @@
+##rail freight##
+https://en.wikipedia.org/wiki/Railway_electrification_system#World_electrification
+50% of passenger rail trips are electric
+
+https://www.chooseclimate.org/climatetrain/ecobal.html -Districh Brockhagen
+sum of fuel consumed per 100 pkt
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/69314/pb13625-emission-factor-methodology-paper-110905.pdf
+UK emissions for rail freight (g-CO2e/Tonne km) is as follows 28.5-CO2, 0.05-CH4, 3.06-N2O [[pg.44 table]]
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/224437/pb13988-emission-factor-methodology-130719.pdf
+same study updated to include urban rail (only) which averages 61.7g-CO2/km
+
+for rail freight there is less data
+Cristea-2011 (downloaded)
+emissions from rail freight are 22.7g/Tonne-Km [[pg.8 tbl-3]]
+
+https://www3.epa.gov/ttnchie1/conference/ei12/green/pesinova.pdf
+32.4Tg-CO2e/tonne-km (32,400,000T-Co2e/tonne-km [[pg.7 table 6]]
+
+https://ria.ua.pt/bitstream/10773/8509/1/Transport%20impacts%20on%20atmosphere%20and%20climate%20_Land%20transport.pdf
+33,076 kilotons of diesel used globally
+
+https://data.oecd.org/transport/freight-transport.htm
+annual data for freight transport by country
+
+http://onlinelibrary.wiley.com/doi/10.1111/jiec.12277/pdf  -Nahlik May4-2015
+shipping emissions and LCA for rail freight
+rail infra is 35yrs
+
+https://www.reportlinker.com/data/series/rtYSrz4tsnA
+diesel fuel consumption in China in 2013 was 27.2Kg /10,000 ton-km
+0.00272 ton-km/kg
+
+http://ecmaindia.in/Uploads/image/6imguf_Dr.AvinashAgarwalandDr.AnirudhGautam(IIT)Panel-4.pdf
+20 million passengers/day and 2.5 million tons of freight/day are transported (world's 2nd largest network)
+fuel consumption 2.6 billion liters per year
+Prof. Avinash Kumar Agarwal - akag@iitk.ac.in
+
+https://www.factcheck.org/2008/07/fuel-efficient-freight-trains/
+for 7 major US railroads, the average efficiency was 435.88 ton-miles per gallon of fuel
+https://www.csx.com/index.cfm/about-us/the-csx-advantage/fuel-efficiency/?mobileFormat=true
+2007s 470 gross ton-miles per gallon or 686.18684 ton-kms/gal
+
+http://www.progressiverailroading.com/norfolk_southern/article/Class-Is-on-fuel-management-Good-to-the-last-drop--15344
+BNSF set a fourth-quarter record of 773 gross ton-miles per gallon
+Short Ton-Miles x 1.459972 = Metric Ton-Kilometers grinebiter.com
+636.372595 ton-kms per gallon for US locomotives
+
+http://www.progressiverailroading.com/intermodal/article/Sustainable-growth-Railroads-aim-to-pull-more-freight-off-the-highway--48412
+BNSF moves one ton of freight almost 500 miles on a single gallon of diesel fuel
+
+https://www.up.com/aboutup/environment/operations/index.htm
+456ton-miles for union-pacific 
+

@@ -1,0 +1,93 @@
+### LCA fuel ###
+https://eao.stanford.edu/research-areas/opgee
+download OPGEE-GHG-petroleum for emissions data on oilfield LCA per unit petroleum produced
+7,720g-CO2/bbl (barrel of oil) <- can't find source
+
+https://crcao.org/workshops/LCA/LCA%20October%202013/Session%204/Brandt,%20Adam.pdf
+general graph of petroleum LCA with vague figures [[pg.9]] --8g/MJ = 1/2 Han's assesment  <- used for low estimate
+
+Han - http://www.sciencedirect.com/science/article/pii/S0016236115003348
+graph provides CO2e in grams/MJ  [[pg.297 fig.6]]
+
+Bakken-Shale-Oil-report (downloaded)
+5,652 CO2 in g/mmBtu
+94g-CO2e/MJ (gas/diesel) well-to-wheel [[pg.67]]
+
+https://www.iea.org/about/faqs/oil/
+global oil production is 97 million barrels per day (2015)  {{this may include both gas, diesel, & heating oil}}
+
+Emb Energy FFveh 00324 - Morten Simonsen and Hans Jakob Walnum (downloaded)
+CO2e emissions from fuel extraction, refine, shping in mg/Mj of energy [[pg.16 Tbl-3]]
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4687841/
+The production mean ratio globally for energy input to energy acquired for all 40 fields is 32.5 MJ acquired per 1MJ  [[Results -total net energy ratio]] invested. 
+(most fields peaked by 1999 and are requiring increasing energy inputs to remain productive).
+
+https://www.marketwatch.com/story/forget-crude-itself-refiners-are-the-place-to-make-money-2015-07-27
+LCA for oil refineries - page includes graph displaying 'refining-percent-oil..' for refining as percent of total cost
+
+http://www.econtrader.com/economics/explain/how-much-gasoline-one-barrel-crude-oil.htm
+one 42-gal barrel of oil provides 19-20gal gasoline & 10gal diesel
+https://www.indexmundi.com/energy/?product=gasoline&graph=production
+22,377,000 barrels gasoline per day for 2012
+http://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2011.pdf
+25mil barrels diesel fuel per day in 2010 [[pg.27]]
+
+Arthur, J. Daniel, Brian Bohm, Bobbi Jo Coughlin, and Mark Layne. 2008. Evaluating the Environmental Implications of Hydraulic Fracturing in Shale Gas Reservoirs. Tulsa: ALL Consulting.
+https://crcao.org/workshops/LCA%20October%202013/Session%204/Bergerson,%20Joule.pdf
+graph [[pg.16 Tbl-2.4]] tar sands emissions vs. standard  *- state my est might be low due to shale being higher GG per unit produced find percentage as tarsand & use higher figure -*
+Emissions due to gasoline extract/refine range from 13-24g-MJ and 
+emissions due to diesel extract/refine range from 14-21g-MJ [[pg.43 Tbl-2.5]]
+
+http://www.mdpi.com/2071-1050/3/11/2307/htm  -- Cleveland-2011   *- state my est might be low due to shale being higher GG per unit produced -*
+Oil shale absolutely causes more GG emissions than conventional gas from crude oil sources by a factor of 1.2 to 1.75.  [[abstract]]
+World production of oil from shale was about 5 million barrels in 2005. Comparably, global crude oil production in 2005 averaged 84.6 million barrels per day. [[introduction]]  --*-- so 10 mil barrels is 9.46% of total production
+greenhouse gas emissions are projected to be about 20–50% higher than those of conventional oil (range of 30.6 to 37.1 grams C per megajoule (MJ) of fuel, compared to 25.3 for the average of gasoline and diesel). These values are comparable to oil sands (29–36) 
+Brandt (2009) conservatively estimates that the resulting greenhouse gas emissions are about 50–75% higher than those of conventional oil, and that is without considering fugitive emissions. [[sec-3.1]] <- extracting only
+The EROI-ref is the energy content of the refined fuel compared to the energy required to extract, process, and refine the crude product into a finished fuel that is ready for end use. Delucchi's (1991, 2003) [21,23] work suggests an EROI-ref of about 4.7 for motor gasoline refined from conventional crude oil. Brandt's (2008, 2009) [8,13] indicates an EROI of about 1.4 for liquid fuel refined from shale oil.
+
+https://crcao.org/reports/recentstudies2011/E-88/E-88%20Report%20v8%20Final%202011.03.02.pdf -- life cycle associates
+table comparing different studies and the WTT emissions [[pg.43-tble-2.5]]
+
+https://crcao.org/workshops/LCA%20October%202011/Session%202/Brandt,%20Adam.pdf -broken
+https://www.crcao.org/workshops/LCA%20October%202013/Session%204/Bergerson,%20Joule.pdf [[pg.14]] a little useful
+
+## urban rail ##
+https://en.wikipedia.org/wiki/List_of_countries_by_rail_usage
+inter-city rail usage worldwide is 2,954 billion passenger kilometers
+
+https://uic.org/IMG/pdf/high_speed_passenger-km_20171101_.pdf
+High-speed rail usage worldwide is 630.6 billion passenger km
+
+https://www.statista.com/statistics/739801/urban-rail-passenger-transport-performance/
+urban rail usage worldwide is 574 billion passenger kilometers
+
+https://www.statista.com/statistics/270986/airlines-by-passenger-kilometers-flown/
+total distance traveled globally by aircraft comes to 1.61 trillion
+
+International Union of Railways (UIC) has published the “Carbon Footprint of High Speed Rail: Final Report”  
+(2011) presenting the results of a carbon footprint analysis of four high speed rail lines
+
+Spielmann-2007(Swiss) (downloaded)
+33.6g-CO2/Tkm for diesel and 2.13g-CO2/Tkm for elec [[pg.109(123)]]
+
+Uherek_Transport Impacts (downloaded)
+quotes Chester-24008 graph which is great for general transport LCA found in [[pg.5 Fig.1]] & quoted in Uherek[[pg.8-Fig.4]]
+
+http://iopscience.iop.org/article/10.1088/1748-9326/11/4/044010/pdf
+CH4 from fossil fuels in N.America --35Tg for 2014 [[pg2]]
+
+http://rsta.royalsocietypublishing.org/content/roypta/369/1943/2058.full.pdf Dlugokencky-2011
+total CH4 from fossil fuel globally is 110Tg-CH4/yr [[pg.3]]
+oil extraction, crushing and processing, and abandoned mines; oil extraction and gas flaring; and especially from natural gas extraction,
+processing, transmission and distribution
+
+http://www.takepart.com/article/2016/10/05/methane-cows-landfills-oil-gas-climate-change/
+fossil fuel produces 132-165Mt-CH4/yr according to -https://www.nature.com/articles/nature19797 [[paywall]] also in Schwietzke-2016
+
+https://www.researchgate.net/publication/235736865_Analysis_and_Mitigation_Opportunities_of_Methane_Emissions_from_Energy_Sector
+Analysis and Mitigation Opportunities of Methane Emissions from the Energy Sector -- DOI: 10.1080/1 5567031003716725
+Natural gas and oil systems account for 1,104.03 MtCO2eq of methane (multiply by 80/20)
+
+http://www.tandfonline.com/doi/pdf/10.1080/1073161X.1993.10467222 (1993)
+6.24grams of CO2 emitted per gallon of gasoline produced

@@ -1,0 +1,63 @@
+## maritime shipping ##
+http://www.imo.org/en/OurWork/Environment/PollutionPrevention/AirPollution/Pages/Greenhouse-Gas-Studies-2014.aspx
+-chk- For the year 2012, total shipping emissions were approximately 938 million tonnes CO2 and 961 million tonnes CO2e for GHGs combining CO2, CH4 and N2O. 
+
+http://oecdobserver.org/news/fullstory.php/aid/2600/Sea_fairer:_Maritime_transport_and_CO2_emissions.html
+The International Maritime Organization, however, has recently updated its own estimate using a detailed bottom-up fleet inventory and has found that international maritime activity emitted a total of 1,120 Mt of CO2–more than twice the IEA estimate for 2005. 
+
+http://www.imo.org/en/OurWork/Environment/PollutionPrevention/AirPollution/Documents/Third%20Greenhouse%20Gas%20Study/GHG3%20Executive%20Summary%20and%20Report.pdf
+Int'l Maritime Org. states- shipping emitted 796Mt of CO2 in 2012 or 2.2% global
+-chk- 2011 emissions -- top-down795.4Mt bottom up-938.1Mt-CO2) [[pg77]]
+-chk- 2012 CO2e emissions from total int'l shipping -- 9.802Mt CH4, 12.7Mt N2O, 938.1Mt CO2 [[pg87]]
+
+https://www.theicct.org/sites/default/files/publications/Global-shipping-GHG-emissions-2013-2015_ICCT-Report_17102017_vF.pdf
+global emissions from maritime shipping comes to 1,229Mt-CO2e -- 76% as CO2, 21% as Black Carbon, 2% as CH4, 1% as N2O pg.vi]]
+Ships are responsible for emitting approximately 1 billion tonnes of CO2 and GHGs per year, on average from 2007 to 2012 (Smith et al. 2015)[[pg.2]]  <- inserted into essay
+
+http://www.worldshipping.org/benefits-of-liner-shipping/global-economic-engine
+shipping is $183.3 billion industry {for use with eiolca}  
+
+http://www.imo.org/en/KnowledgeCentre/ShipsAndShippingFactsAndFigures/TheRoleandImportanceofInternationalShipping/Documents/International%20Shipping%20-%20Facts%20and%20Figures.pdf - Maritime Knowledge Center
+Total shipping worldwide in 2010 was 8.4 billion tons [[pg7]]
+https://people.hofstra.edu/geotrans/eng/ch3en/conc3en/tonskmmaritime.html
+In 2012 the total ton-miles performed by maritime transportation reached a record just over 44,000 billions
+
+http://orbit.dtu.dk/files/110603279/From_LCC_to_LCA.pdf Kjaer [downloaded]
+global shipping represents 3.1% of global emissions [[ph.3]]
+11.1g-CO2e are produced per ton-km/yr
+
+http://www.imo.org/en/KnowledgeCentre/ShipsAndShippingFactsAndFigures/TheRoleandImportanceofInternationalShipping/Documents/International%20Shipping%20-%20Facts%20and%20Figures.pdf
+https://www.slideshare.net/calemolech/international-shipping-facts-and-figures  <- possibly useful for LCA
+roughly 3700 new ships built or on order of 96mil gross ton capacity or higher [[pg.10]
+
+http://www.imo.org/en/OurWork/Environment/PollutionPrevention/AirPollution/Documents/Third%20Greenhouse%20Gas%20Study/GHG3%20Executive%20Summary%20and%20Report.pdf
+816mil tons-CO2e [[pg.1--sec.1.1]]
+
+https://brage.bibsys.no/xmlui/bitstream/handle/11250/2454930/17718_FULLTEXT.pdf?sequence=1
+international shipping contributed 815mil tonnes-CO2e during the year 2012 [[pg.5]]
+international shipping contributed 2.46E+11 kg-CO2e/yr not including ship construction or demolition [[pg.57]]
+(((maybe email Anna Ringvold for opinion on my paper)))
+
+https://rctom.hbs.org/submission/shipping-global-trades-dirty-secret/
+origin of quote from John Upton 2013 on IMO delaying changes in emissions standards for 7yrs
+
+***
+Maritime LCA
+***
+LCA-shipping Beizadea [downloaded]
+4.25kg-CO2e (sum minus operation) for one ship [[Pg.8 table-6]] <-- ends up at 75 gigatons
+
+eiolca
+2.78 million tons CO2e/$1mil and shipping is $183.3 bil industry (see above)
+2.78 tons / $1
+
+operational energy represents 
+LCA is roughly 1.2876% of total emissions 
+100% includes embodied emiss, embodied fuel emiss, and use
+use comprises 79.1% of CO2 specific emissions, embodied fuel comprises 8.7%, combustion related emissions of CH4 & N2O comprise 1.1%
+leaving the remaining 11.1% comprising of embodied emissions for construction, scrap, etc. [[pg.5 -477]]
+
+maritime fuel
+A comparative life cycle assessment of marine fuels liquefied natural gas and three other fossil fuels
+by S. Bengtsson, K.Andersson, I. Fridell
+Life Cycle Assessment of Present and. Future Marine Fuels. SELMA BENGTSSON

@@ -1,0 +1,104 @@
+Agricultural Soils
+
+http://iopscience.iop.org/article/10.1088/1748-9326/11/9/094003#erlaa37b6s5
+points out -
+"We define agricultural N2O emissions as direct and indirect N2O emissions (the latter from N leached into waterways and N deposition) from cropland and pasture, excluding manure management. Manure management is not currently simulated as emissions from this sector occur during the collection, handling, storage, and treatment of manure, practices that are not yet explicitly integrated into the model. The explicit simulation of indirect N2O emissions is currently in development for LM3-N.1 and partially implemented in this study."
+
+Carlson-2017 (downloaded)
+Total N2O emissions of 403 ± 74 Tg CO2e are associated with application of synthetic fertilizer and manure (to croplands for food)
+91.44% of this is synth fertilizer and 8.56% is from manure applied to soils so 368.5Tg-CO2e from synth & 34.5Tg-CO2e from poop <-too low
+
+http://or.nsfc.gov.cn/bitstream/00001903-5/257752/1/1000006981074.pdf   Shan & Yan-2013
+Nitrous oxide emissions were significantly reduced by crop residue returning combined with synthetic N fertilizers compared with emissions from treatments that only received synthetic N fertilizer.  [[sec-3.1]]
+
+Van-Groenigen (downloaded)
+also supports global anthropogenic N2O emissions of 6.7
+
+USEPA-2006 (1990-2020)
+N2O emissions from ag. soils for 2010 (predicted) 8,005Gg-N2O (8.0Mt-N2O) [[pg.68-Sec5.2.2]]
+(note: the report does not specify how much of this emission is from manure on pasture/soils (Hristov3288) but according to O'Mara, the percentage of emissions is 48% from poo
+
+
+http://publications.jrc.ec.europa.eu/repository/bitstream/JRC107178/leip.carmona.rossi2017.tracing_mitigation_in_afolu.kj-na-28680-en-n.pdf
+When urea (CO(NH2)2) is added to soils in the presence of water and urease enzymes, it is converted into ammonium (NH4+), hydroxyl ion (OH-) and bicarbonate (HCO3-). As in the case of liming, bicarbonate evolves into CO2 and water. ((pg.20))
+(ag soils emitting CO2)
+
+FAO-AFOLU-3671
+Greenhouse gas emissions from agricultural soils consist of methane and nitrous oxide produced in the following sub-sectors: 
+synthetic fertilizers
+manure applied to soils
+manure left on pasture
+crop residues
+cultivation of organic soils and fertilizers. [[pg.48-top]]
+---
+Synthetic fertilizer(N2O) - annual emissions were 725 Mt CO2 eq in 2011 [[pg.48-botm]]
+Manure applied to soils(N2O) - 1845 Mt CO2 eq in 2011 [[pg.50]]
+Manure left on pasture(N2O) - 824 Mt CO2 eq. in 2011 [[pg.53]]
+Crop residues(N2O) - (forage/pasture renewal left on agricultural fields) 197 Mt CO2 eq [[pg.56]]
+
+Tubiello-2016 (downloaded)
+emissions from cropland conversion 756.075Mt-CO2 direct and 99.159Mt-CO2e(N2O)
+emissions from grassland conversion 25.704Mt-CO2 direct and 33.655Mt-CO2e(N2O)
+
+http://www.tandfonline.com/doi/abs/10.3763/ghgmm.2010.0007 Syakila global N2O budget revisited (downloaded)
+Synth. Fertilizer - 0.9Tg-N/yr  (all figures lower then my average)
+biological fixation 0.1Tg-N/yr
+crop residue - 0.3Tg-N/yr
+cultivated histosol 0.1Tg-N/yr
+animal waste management - 2.3Tg-N/yr
+atmospheric deposition from animal production - 0.4Tg-N/yr
+nitrogen leaching & runoff of waste 0.6Tg-N/yr [[Pg.18 Tbl-1]]
+total agriculture emissions add to 5.3Tg-N/yr (this includes 0.3Tg-N from human sewage), these figures are consistant with Davidson(2009) who estimated 5Tg-N and Crutzen et al(2007) who estimated 4.3-5.8Tg-N/yr [[pg.4]]
+
+http://www.fao.org/climatechange/38775-05b4be363f37767e8b740a1fbd4f025f3.pdf  Biancalani
+715.35Mt-CO2 direct and 88.026Mt-CO2e(N2O) ((slide-16))
+19.219Mt-CO2 direct and 38.396Mt-CO2e(N2O) ((slide 22))
+
+http://iopscience.iop.org/1748-9326/8/3/035019/media/erl462054suppdata.pdf --Valin et al
+**figures provided for CH4 and N2O from manure management, and only N2O from manure left on pasture** [[pg15_Sec3.1]]
+Table-
+Manure Mngmt (CH4)-
+GLOBIOM  251Mt-CO2e, FAOSTAT(2013)  168Mt-CO2e, EPA(2012)  216Mt-CO2e, EDGARv4.2  271Mt-CO2e
+Manure Mngmt (N2O)-
+GLOBIOM  207Mt-CO2e, FAOSTAT(2013)  155Mt-CO2e, EPA(2012)  174Mt-CO2e, EDGARv4.2  92Mt-CO2e  <- figures too low, from 2000
+
+http://iopscience.iop.org/article/10.1088/1748-9326/8/1/015009/meta#erl446903s1 2013_GHG - The FAOSTAT database of greenhouse gas emissions from agriculture Tubiello
+Manure left on pasture - 0.764Gt-CO2e
+Manure applied to soil - 0.116Gt
+Manure management - 0.353Gt
+Synth fertilizer - 0.687Gt
+Deforestation - 3.374Gt [[pg.6-Tbl.2]]
+manure mgmt is roughly divided 50/50 btwn CH4 & N2O
+FAOlow@fao.org
+Tubiello-3671
+synth. fertilizer releases 0.725Gt-CO2e of N2O [[pg.35]]
+
+Saunois-etal (downloaded) - https://search.proquest.com/openview/b6002ccb12598c053c7f1cda3209fe89/1?pq-origsite=gscholar&cbl=105729
+total agriculture biomass burn 17 Tg [[pg72 Table2]]
+
+FAOstat
+manure applied to soils works out to 0.422668+95.1+84.5336+179.634Mt-N2O (0.78194Mt-N2O)
+for 2016 the figures are 617.4995Gg (0.62Mt-N2O)
+
+DelGrosso-2008
+soil-direct 3.77Tg-N, soil indirect 0.76Tg-N (total 7.12Mt-N2O) [[pg.2 tbl-1]]
+
+http://www.fao.org/docrep/018/i3288e/i3288e.pdf
+Based on a report by the USEPA (2006) the direct livestock contribution to global non-CO2 emissions-. 
+-chk- emissions from manure storage were estimated at 470 Mt CO2e/yr 2010
+
+http://www.pnas.org/content/110/52/20888.long {Herrero-2013}
+N2O from manure application to soils were 0.49 Gt CO2e [[Results-Non-Co2...]]
+
+Bouwman-UNEP 2013 (downloaded N2O)
+On average, around 50% of nitrogen applied to soils is not taken up by the crop. [[pg.15]]
+fertilizer applied to soil is 1,059Gg (1.059Mt-N2O-N)
+manure mngmt 0.219Mt-N2O-N
+manure applied to soil 0.166Mt-N2O-N
+applied crop residue 0.257Mt-N2O-N
+burning of crop residue is 0.013Mt-N2O-N
+drainage of peatlands 0.2Mt-N2O-N [[pg.34 Tbl 4.1]]
+
+http://www.plantsciences.ucdavis.edu/vankessel/publications/Van_Groenigen_et_al.pdf
+Van Groenigen-2010 (quoting Stehfest-Bouwman-2006)
+N2O from fertilized cropland (both synth fertilizer & manure) amount to 3.3Mt-N2O-N/yr (1.257Mt-N2O) [[pg.2]]

@@ -1,0 +1,20 @@
+Aquaculture
+estimated production in 2009 was 55.1Mt 
+Global N2O emissions from aquaculture in 2009 estimated at 93 Kt N2O-N or 0.1461Mt-N2O or 40.92Mt-CO2e
+[[IPCC-AR5--box11.4]]
+
+Davidson-2012
+aquaculture releases 0.02Tg-N2O-N/yr or 0.0314Mt-N2O or 8.8Mt-CO2e [[pg.2]]
+
+Bouwman-UNEP 2013 (downloaded N2O)
+A small amount of N2O is also emitted in aquaculture  through the release of nitrogen wastes to surface waters where nitrogen is transformed and released as N2O emissions (<0.1 Tg N2O-N/yr in 2010) [[pg.28]]
+emissions of N2O from aquaculture is placed at 0.05Mt-N2O-N/yr [[Tbl-3.1]]
+
+https://www.sciencedirect.com/science/article/pii/S0160412016300587
+we estimate that production of the top five major aquaculture feed crops required ~ 99,000–104,000 km2 of harvested cropland area in 2008
+aquaculture industry currently consumes ~ 4% of feed crops
+
+https://s3.amazonaws.com/academia.edu.documents/45732290/j.aquaculture.2011.08.03320160517-6968-1aegyxa.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1521598317&Signature=SzhzSJURdgNKoBkWHNDfbsoDkbc%3D&response-content-disposition=inline%3B%20filename%3DEnvironmental_impacts_of_plant-based_sal.pdf  Boissy-2011
+CO2e for aquaculture feed production for 2 specific species [[pg.65 tbl.4]]
+LCA for aquaculture per ton [[pg.67 tbl.5]]
+

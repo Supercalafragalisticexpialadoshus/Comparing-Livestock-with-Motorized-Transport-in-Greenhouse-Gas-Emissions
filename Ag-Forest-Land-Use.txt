@@ -1,0 +1,167 @@
+send to earthgames
+send research to Dargan Frierson of earthgames (working to design climate-change video games)
+earthgamesoutreach@gmail.com
+
+http://publications.jrc.ec.europa.eu/repository/bitstream/JRC107178/leip.carmona.rossi2017.tracing_mitigation_in_afolu.kj-na-28680-en-n.pdf
+6 categories -- Forest Land, Cropland, Grassland, Wetlands, Settlements, and Other Lands ((pg20 - 2.4.8))
+FOLU
+categories:
+Burning biomass (CO2)
+Burning biomass (CH4)
+Burning biomass (N2O)
+Burning shrubland (CH4)
+Burning shrubland (N2O)
+Burning Savanna (CH4)
+Burning Savanna (N2O)
+Burning crop residue (CH4)
+Burning crop residue (N2O)
+Forest conversion (CO2)
+Cropland conversion (CO2)
+Grassland conversion (CO2)
+
+FAO afolu 3671 (downloaded)
+Greenhouse gas emissions from burning of savanna consist of CH4 and N2O produced from the burning of vegetation biomass in the following five land cover types: savanna, woody savanna, open shrubland, closed shrubland and grassland [[pg.60]]
+Greenhouse gas emissions from net forest conversion consist of CO2, produced by the oxidation of carbon in biomass stock lost due to conversion of forest land to agriculture as either cropland or grazing land.  In 2010, world total annual GHG emissions from net forest conversion were 3,738 Mt CO2 eq [[pg.67]]
+Greenhouse gases emissions in cropland are those associated with CO2 emissions from the drainage of organic soils (i.e. histosols, peatlands) for crop production. Total annual emissions from cropland organic soils are estimated at 756 Mt CO2 eq [[pg.71]]
+Greenhouse gases emissions in grassland are those associated with CO2 emissions from the drainage of organic soils (histosols, peatlands) for livestock production. Total annual emissions from grassland organic soils were 25 Mt CO2 eq [[pg.71-72]]  <- done
+
+https://test.gmes-atmosphere.eu/documents/deliverables/d-fire/acpd-10-16153-2010.pdf van der werf
+1997-2010 FOLU burning emissions
+chart showing percentage of burning from savanna, grassland, forest, agric, etc [[fig.8 pg.16222]]
+global CO2 emissions from burning for 2007 were 2,043Tg-C [[table-7 pg.16214]]
+savannah and grasslands contribute the largest percentage to this category [[pg.16177]]
+20 Tg CH4 from deforestation mainly from peatland use change [[16182]]
+this study uses conservative figures and though some of the emissions may be due to logging, it also focuses primarily on tropical regionsand thus may not be complete [[pg.16180]]
+
+http://iopscience.iop.org/article/10.1088/1748-9326/10/7/074002
+Deforestation and degradation of tropical forests constitute the second largest source of human-caused CO2 emissions after fossil fuel combustion (van der Werf et al)
+
+https://www.researchgate.net/profile/David_Schimel/publication/253108433_CH4_and_N2O_fluxes_in_the_Colorado_shortgrass_steppe_2_Long-term_impact_of_land_use_change/links/568d5d1508aead3f42ed9bdd/CH4-and-N2O-fluxes-in-the-Colorado-shortgrass-steppe-2-Long-term-impact-of-land-use-change.pdf  -Mosier-1997
+conversion of grassland to agriculture increases N2O emissions & decreases CH4 absorbtion [[intro]]
+same conclusion re: Indonesian forest
+Ishizuka, Tsuruta, Murdiyarso-2002 intensive field study on CO2, CH4, and N2O emissions from soils
+and amazon forest 
+http://philip.inpa.gov.br/publ_livres/Preprints/2000/cpatu-ms-engl.pdf  Fearnside, P.M. 2000. Greenhouse gas emissions from land use change in Brazil's Amazon 
+region
+
+http://98.131.92.124/sites/default/files/2000%20Watson%20IPCC.pdf - forest land use Watson-et al 2000
+states no global data on FOLU non-CO2
+
+https://www.earth-syst-sci-data.net/10/405/2018/essd-10-405-2018.pdf#page=424 Le Quéré-2017
+1.3Gt-CO2 produced by land-use change (including peat)
+LeQuere-2017 https://doi.org/10.5194/essd-10-405-2018  says the same figure [[pg.419]]
+
+https://projects.ncsu.edu/project/amazonia/GeistLambin.pdf Geist-Limbin-2002
+Agricultural  expansion  is, by  far, the  leading  land-use change associated with nearly all [tropical] deforestation cases (96%).[[pg.145]]
+https://www.intechopen.com/download/pdf/36125 Chakravarty-2012
+deforestation represents 60% of tropical deforestation[[pg.6-Sec3.1.1]]
+
+https://pages.wustl.edu/files/pages/imce/stone/lambin_lucc_myths.pdf Lambin et al 2001 (global environmental change)
+"cattle provides the largest economic rewards, given market conditions and/or government subsidies, for the winners, large-scale land conversion to pasture follows" for amazonia, yet for Africa and SE Asia, the timber industry provides more incentive [[pg.3]]
+
+deforestation- ag. drivers represent around 80% of deforestation causes worldwide (Geist and Lambin, 2002; 
+Hosonuma et al, 2012).
+
+https://s3.amazonaws.com/academia.edu.documents/41953501/Contribution_of_drained_organic_soils_to20160203-21626-1ukcvrw.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1521423726&Signature=WDIDRmrLAqJwK3OULpaXjiCKN3s%3D&response-content-disposition=inline%3B%20filename%3DContribution_of_drained_organic_soils_to.pdf  Biancalani and Tubiello
+drained organic soils are responsible for 1Gt-CO2 or 10% of AFOLU emissions [[pg.2]]
+
+Montzka-2011
+biomass burning releases 1,300Mt-CO2e(CH4) and 300Mt-CO2e(N2O)
+
+http://sa.indiaenvironmentportal.org.in/files/Greenhouse%20gas%20mitigation.pdf	Burney et al-2009
+land-use change contributes 1.5Gt-CO2 in 2005 [[intro]]
+
+https://pdfs.semanticscholar.org/fe0b/24210e0ed8c2e387e7335f06ff9fce05400b.pdf  Wuebbles & Hayhoe-2002
+biomass burning releases 50Tg-CH4/yr [[Pg.13-Tbl.1]]
+https://www.researchgate.net/profile/Sara_Mikaloff-Fletcher/publication/229009098_CH4_sources_estimated_from_atmospheric_observations_of_CH4_and_its_13C12C_isotopic_ratios_1_Inverse_modeling_of_source_processes/links/00463526997fb70eca000000/CH4-sources-estimated-from-atmospheric-observations-of-CH4-and-its-13C-12C-isotopic-ratios-1-Inverse-modeling-of-source-processes.pdf -Mikaloff Fletcher-2004
+the 50Tg-CH4 estimate confirmed [[pg.2-Tbl.1]] also points out their estimates are at high end of previous study's range
+
+http://sa.indiaenvironmentportal.org.in/files/biomass%20burning.pdf Lamarque, Bond et al-2010
+biomass burning contributes 2.61Tg-BC in a year [[pg.9 Tbl-3]]
+
+http://iopscience.iop.org/article/10.1088/1748-9326/9/10/105012/pdf	Davidson 'inventories...' (downloaded)
+66% agriculture & 11% biomass burning (percentage of 'gross anthropogenic emissions' or 6.2Mt, this figure was revised down to match recent changes in forest clearing..see Bouwman-pg28) [[pg2]]
+use graph in my study [[pg3]]
+Bouwman-UNEP
+agriculture-4.1Tg-N2O-N/yr, Biomass burning 0.7Tg-N2O-N/yr, aquaculture 0.05 Tg-N2O-N/yr[[graph pg26]]
+agriculture lumped together is 3.8-6.8Tg-N2O-N/yr 
+biomass burning is responsible for 0.5-1.7Tg-N2O-N/yr this includes crop burning, savannah burning, and forest fires both nat. and artif. [[pg28]]
+"Although some wildfires are ignited naturally by lightning, all emissions from biomass burning have been attributed as anthropogenic emissions because it is impossible to separate out which wildfires are ignited by humans.  Furthermore, anthropogenic climate change may also be increasing natural fire frequency and severity (Pechony and Shindell, 2010)." [[pg28]]
+Bouwman-2013
+drainage of peatland is 0.2Mt-N2O-N [[pg.34 quoting IPCC-2006]]
+
+BC emissions from ag. biomass burning [Bond-2004]
+forest 1238Gg/yr, Savanna 1715Gg/yr, ag.residue 328Gg/yr, waste 44Gg/yr totaling 3325Gg/yr [[pg.30 Table.13]]
+
+https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1023&context=chem_pubs -- Wiedinmyer-2011
+annual fire emissions 2010 -> 7999Tg-CO2, 20Tg-CH4, 2.4Tg-BC [[pg.11 Table.6]]
+The open biomass burning emissions from FINNv1 for 2008 make up 27% of global particulate BC emissions [[pg.11]]
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874414/pdf/rstb20150177.pdf Balk-2016 biomass burning (downloaded)
+Human-dominated landscapes, urban areas and croplands, released 0.3Mt-C per year (+/- 0.2) and 59.9Mt-C per year (+/- 7.4) in biomass burning emissions, whereas they released 100Mt-C per year (+/- 3.8 s.d.) and 2,000Mt-C per year (+/- 300 s.d.) of fossil fuel emissions (table 1); or in other words, the emissions from fossil fuel burning were more than 500-fold and 30-fold higher than those from biomass
+burning in urban and cropland areas, respectively.
+chk w/ figures from [[pg.4 table.1]]  <-- too confusing
+
+https://link.springer.com/content/pdf/10.1007/s10584-015-1584-y.pdf Rossi (downloaded)
+intro- study found that the Global Fire Emissions Database (GFED3) and the FAOSTAT Emissions database are roughly congruent
+
+http://iopscience.iop.org/article/10.1088/1748-9326/8/1/015009/meta#erl446903s1 2013_GHG - Tubiello
+FOLU is 3374 Mt-CO2e for 2010 and total world agriculture is 7960 Mt-CO2e [[pg7]]
+-----
+graph includes 0.4Gt-CO2e for drained organic soil and 0.75Gt-CO2e for biomas burning
+0.764Gt-CO2e for manure left on pasture, 0.116Gt for manure on soil, 0.353Gt for manure mngmt, 0.687Gt synth fertilizer, 3.374Gt deforestation 
+FAOlow@fao.org
+
+Tubiello_globalGHG-agriculture [downloaded]
+If contributions from deforestation and forest sinks are combined, then forests represent a net source of emissions with an average of 0.8 Gt of CO 2 per year during the period 2011–2015. This is an emissions reduction of over 50% compared to the decade 2001–2010, which generated average net forest emissions of 1.7 Gt of CO 2
+
+Tubiello-3671
+AFOLU emissions 8103Mt-CO2e in 2000s [[pg18]] <<ignore
+forestry conversion in 2010 -3738Mt-CO2e {is this CO2?} 
+peat degradation in 2010 -1021Mt-CO2e [[pg20]]
+graph
+--enteric fermentation 40% or 2,071Mt-CO2e  -CH4 livestock
+--manure left on pasture 15% or 824Mt-CO2e(N2O) -livestock
+--manure applied to soil 3% or 1845Mt-CO2e(N2O) -combined crops
+--synth. fertilizers 13% or 725Mt-CO2e  -N2O combined crops
+--rice 10% or 522Mt-CO2e
+--manure mngmt 7% or 361Mt-CO2e - CH4,N2O livestock
+--burning savanna 5% or 287Mt-CO2e 
+--crop residue 4% or 197Mt-CO2e(N2O)
+--burning crop residue 0.5% or 29Mt-CO2e [[pg22]]
+--FOLU emissions 2010 2816Mt-CO2e[[pg23]]
+
+http://edgar.jrc.ec.europa.eu/Main_differences_between_EDGARv42_and_v41.pdf
+Global total CO2 emissions from forest fires and post-burn decay changed only very little (+75 Mton) [[pg.2]]
+
+Carlson-2017(N2O)
+emissions from draining peatlands for agriculture are 630 ± 90Tg-CO2e/yr, composed of (89% in CO2e, 11%N2O and <1% CH4).
+
+Tubiello_globalGHG-agriculture [downloaded]
+Global emissions from deforestation have declined from 3.9Gt-CO2 in 2001 to 2.9Gt-CO2 in 2015
+*If contributions from deforestation and forest sinks are combined*, then forests represent a net source of emissions with an average of 0.8 Gt of CO 2 per year during the period 2011–2015. This is an emissions reduction of over 50% compared to the decade 2001–2010, which generated average net forest emissions of 1.7Gt of CO2.
+
+http://iopscience.iop.org/1748-9326/8/3/035019/media/erl462054suppdata.pdf --Valin et al
+**figures provided for CH4 from enteric fermentation, CH4 and N2O from manure management, and only N2O from manure left on pasture** [[pg15_Sec3.1]]
+Savannah burning is 5.9% of agricultural emissions (according to EDGAR v4.2) [[pg16_Sec3.4.1]]
+FOLU
+tropical deforestation (Mt-CO2/yr)-
+GLOBIOM 1,588MT-CO2, EDGARv4.2(2000) 1,622Mt-CO2, FAOSTAT(2006-2010) 2,984Mt-CO2
+((I'm going to use 3Gt-CO2/yr))
+
+peatland
+https://www.biogeosciences.net/9/5125/2012/bg-9-5125-2012.pdf Houghton (downloaded)
+The combined emissions from both oxidation through drainage and fire in southeast asia 289 +/-138Tg-C (this may be an underestimate since otehr regions may be exploiting peatlands. for example Donato-2011 estimates that deforestation of mangroves released 0.02-0.12Pg-C per year) [[pg.12 sec5.1]]
+
+Carlson-2017 (downloaded)
+emissions from draining peatlands for agriculture are 630 ± 90 Tg CO2e yr, composed of CO2 (89% in CO2e),N2O (11%) and CH4 (<1%)
+
+http://pure.iiasa.ac.at/id/eprint/11115/  IIASA 11115
+graphs depicting emissions from biomass burning (incl Blk Crbn) sourced from Lamarque-2010 [[pg.687]]
+
+https://www.atmos-chem-phys.net/10/7017/2010/acp-10-7017-2010.pdf  Lamarque-7017
+2000 figures for biomass burning are: 459Tg-CO2, 2.61Tg-black carbon, [[pg.9 Table9]]
+
+Schwietzke-2016 (downloaded)
+biomass burning produces 43 +/-9 Mt-CH4/yr
+
